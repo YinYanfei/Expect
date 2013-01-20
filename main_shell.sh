@@ -24,3 +24,5 @@ do
    #./expect/cassandra.exp $ip $port $user $pw $commandfile
    $expectfile $ip $port $user $pw $commandfile
 done
+
+
